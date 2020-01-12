@@ -1,0 +1,29 @@
+{
+    "spec_version"     : "v1.2",
+    "$kref"            : "#/ckan/spacedock/127",
+    "$vref"            : "#/ckan/ksp-avc",
+    "identifier"       : "TweakScaleCompanion_NFS",
+    "name"             : "TweakScale Companion for Near Future Solar",
+    "abstract"         : ""
+    "license"          : "GPL-2.0",
+    "release_status"   : "development",
+    "x_netkan_force_v" : true,
+    "author": [
+        "LisiasT"
+    ],
+    "install" : [
+        {
+            "file" : "GameData/TweakScaleCompanions/NFS",
+            "install_to" : "GameData/TweakScaleCompanios/NFS"
+        }
+    ],
+    "resources": {
+        "homepage":   "https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*",
+        "repository": "https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS"
+    },
+    "depends" : [
+        { "name" : "ModuleManager", "min_version" : "2.7.1" },
+        { "name" : "TweakScale", "min_version" : "2.4.4" },
+        { "name" : "NearFutureSolar" : 1.1 }
+    ]
+}
