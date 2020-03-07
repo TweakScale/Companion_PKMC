@@ -23,7 +23,7 @@
     },
     "depends" : [
         { "name" : "ModuleManager", "min_version" : "2.7.1" },
-        { "name" : "TweakScale", "min_version" : "2.4.4" },
+        { "name" : "TweakScaleCore", "min_version" : "2.4.4" },
         { "name" : "NearFutureSolar" : 1.1 }
     ]
 }
