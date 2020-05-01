@@ -8,7 +8,7 @@ Adds (up to date) TweakScale /L patches for Near Future Solar.
 * [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS)
 	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS/issues)
 * Documentation
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-141-tweakscale-under-new-management/&) (for while)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
 	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS/blob/master/README.md)
 	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
