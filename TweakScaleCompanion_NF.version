@@ -1,0 +1,18 @@
+{
+	"NAME"		: "TweakScale Companion for Near Future Add'Ons",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_NF/master/TweakScaleCompanion_NF.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompantion_NF/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_NF/master/CHANGES.md",
+	"VERSION":{
+		"MAJOR":0,
+		"MINOR":0,
+		"PATCH":1,
+		"BUILD":0
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":0
+		}
+}

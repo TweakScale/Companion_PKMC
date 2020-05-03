@@ -2,8 +2,8 @@
     "spec_version"     : "v1.2",
     "$kref"            : "#/ckan/spacedock/127",
     "$vref"            : "#/ckan/ksp-avc",
-    "identifier"       : "TweakScaleCompanion_NFS",
-    "name"             : "TweakScale Companion for Near Future Solar",
+    "identifier"       : "TweakScaleCompanion_NF",
+    "name"             : "TweakScale Companion for Near Future Add'Ons",
     "abstract"         : ""
     "license"          : "GPL-2.0",
     "release_status"   : "development",
@@ -13,17 +13,19 @@
     ],
     "install" : [
         {
-            "file" : "GameData/TweakScaleCompanions/NFS",
-            "install_to" : "GameData/TweakScaleCompanios/NFS"
+            "file" : "GameData/TweakScaleCompanions/NF",
+            "install_to" : "GameData/TweakScaleCompanios/NF"
         }
     ],
     "resources": {
         "homepage":   "	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*",
-        "repository": "https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS"
+        "repository": "https://github.com/net-lisias-ksp/TweakScaleCompanion_NF"
     },
     "depends" : [
         { "name" : "ModuleManager", "min_version" : "2.7.1" },
-        { "name" : "TweakScaleCore", "min_version" : "2.4.4" },
+        { "name" : "TweakScaleCore", "min_version" : "2.4.4" }
+    ],
+    "suggests" : [
         { "name" : "NearFutureSolar" : 1.1 }
     ]
 }

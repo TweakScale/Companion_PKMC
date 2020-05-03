@@ -1,27 +1,34 @@
-# TweakScale Companion :: Near Future Solar
+# TweakScale Companion :: Near Future Add'Ons
 
-Adds (up to date) TweakScale /L patches for Near Future Solar.
+Adds (up to date) TweakScale /L patches for Near Future Add'Ons.
 
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS/issues)
+* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF)
+	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/blob/master/README.md)
+	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_NFS/Archive)
+	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF) on GitHub.
+	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/releases)
+		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/Archive)
 
 
 ## Description
 
-**TweakScale Companion for Near Future Solar** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) [Near Future Solar](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-please-welcome-near-future-exploration/).
+**TweakScale Companion for Near Future Add'Ons** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) [Near Future Add'Ons](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-please-welcome-near-future-exploration/).
+
+Currently supporting:
+
+* Near Future Solar
+	+ [SpaceDock](http://spacedock.info/mod/559/Near%20Future%20Solar)
+	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-solar?gameCategorySlug=ksp-mods&projectID=220672)
+	+ [GitHub](https://github.com/ChrisAdderley/NearFutureSolar/releases)
 
 
 ## Installation

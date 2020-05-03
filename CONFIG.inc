@@ -1,7 +1,7 @@
 source ../CONFIG.inc
 
-PACKAGE=TweakScaleCompanion_NFS
-TARGETDIR="TweakScaleCompanion/NFS"
+PACKAGE=TweakScaleCompanion_NF
+TARGETDIR="TweakScaleCompanion/NF"
 TARGETBINDIR="$TARGETDIR"
 PROJECTSDIR="$PACKAGE/"
 
