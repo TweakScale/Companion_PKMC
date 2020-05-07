@@ -13,8 +13,8 @@
     ],
     "install" : [
         {
-            "file" : "GameData/TweakScaleCompanions/NF",
-            "install_to" : "GameData/TweakScaleCompanios/NF"
+            "file" : "GameData/TweakScaleCompanion/NF",
+            "install_to" : "GameData/TweakScaleCompanion/NF"
         }
     ],
     "resources": {
