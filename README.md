@@ -25,6 +25,10 @@ Adds (up to date) TweakScale /L patches for Near Future Add'Ons.
 
 Currently supporting:
 
+* Near Future Construction
+	+ [SpaceDock](http://spacedock.info/mod/563/Near%20Future%20Construction)
+	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-construction?gameCategorySlug=ksp-mods&projectID=220675)
+	+ [GitHub](https://github.com/ChrisAdderley/NearFutureConstruction/releases)
 * Near Future Solar
 	+ [SpaceDock](http://spacedock.info/mod/559/Near%20Future%20Solar)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-solar?gameCategorySlug=ksp-mods&projectID=220672)
