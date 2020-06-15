@@ -25,14 +25,42 @@ Adds (up to date) TweakScale /L patches for Near Future Add'Ons.
 
 Currently supporting:
 
+* Near Future Aeronautics
+	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-aeronautics)
+	+ [SpaceDock](https://spacedock.info/mod/1957/Near%20Future%20Aeronautics) 
+	+ [GitHub](https://github.com/ChrisAdderley/NearFutureAeronautics/releases)
 * Near Future Construction
+	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-construction)
 	+ [SpaceDock](http://spacedock.info/mod/563/Near%20Future%20Construction)
-	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-construction?gameCategorySlug=ksp-mods&projectID=220675)
 	+ [GitHub](https://github.com/ChrisAdderley/NearFutureConstruction/releases)
+* Near Future Electrical
+	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-electrical)
+	+ [SpaceDock](http://spacedock.info/mod/558/Near%20Future%20Electrical) 
+	+ [GitHub](https://github.com/ChrisAdderley/NearFutureElectrical/releases)
+* Near Future Exploration
+	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/near-future-exploration)
+	+ [SpaceDock](https://spacedock.info/mod/2305/Near%20Future%20Exploration) 
+	+ [GitHub](https://github.com/ChrisAdderley/NearFutureExploration/releases)
+* Near Future Construction
+	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-construction)
+	+ [SpaceDock](http://spacedock.info/mod/563/Near%20Future%20Construction)
+	+ [GitHub](https://github.com/ChrisAdderley/NearFutureConstruction/releases)
+* Near Future Launch Vehicle
+	+ [CurseForge](https://spacedock.info/mod/1434/Near%20Future%20Launch%20Vehicles)
+	+ [SpaceDock](https://kerbal.curseforge.com/projects/near-future-launch-vehicles) 
+	+ [GitHub](https://github.com/ChrisAdderley/NearFutureLaunchVehicles/releases)
+* Near Future Propulsion
+	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-propulsion)
+	+ [SpaceDock](http://spacedock.info/mod/557/Near%20Future%20Propulsion) 
+	+ [GitHub](https://github.com/ChrisAdderley/NearFuturePropulsion/releases)
 * Near Future Solar
+	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-solar)
 	+ [SpaceDock](http://spacedock.info/mod/559/Near%20Future%20Solar)
-	+ [CurseForge](https://kerbal.curseforge.com/projects/near-future-solar?gameCategorySlug=ksp-mods&projectID=220672)
 	+ [GitHub](https://github.com/ChrisAdderley/NearFutureSolar/releases)
+* Near Future Space Craft
+	+ [CurseForge](https://spacedock.info/mod/708/Near%20Future%20Spacecraft)
+	+ [SpaceDock](https://kerbal.curseforge.com/projects/near-future-spacecraft-parts) 
+	+ [GitHub](https://github.com/ChrisAdderley/NearFutureSpacecraft/releases)
 
 
 ## Installation
@@ -58,7 +86,7 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 			- Adapt : Reuse, modify or incorporate source code into your works (and redistribute it!) 
 		+ Under the following terms:
 			- You retain any copyright notices
-			- You recognize and respect any trademarks
+			- You recognise and respect any trademarks
 			- You don't impersonate the authors, neither redistribute a derivative that could be misrepresented as theirs.
 			- You credit the author and republish the copyright notices on your works where the work is used.
 			- You relicense (and fully comply) your works using GPL 2.0 (or later)
