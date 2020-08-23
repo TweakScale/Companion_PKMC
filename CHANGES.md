@@ -1,5 +1,8 @@
 # TweakScale Companion :: Near Future Add'Ons :: Changes
 
+* 2020-0823: 0.0.3.2 (Lisias) for KSP >= 1.4
+	+ Patches revision.
+		- Suppressing some warnings on the `KSP.log`
 * 2020-0726: 0.0.3.1 (Lisias) for KSP >= 1.4
 	+ Patches revision.
 		- Missing parts added
