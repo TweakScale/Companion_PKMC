@@ -65,7 +65,7 @@ cp LICENSE* "./GameData/$TARGETDIR"
 cp NOTICE "./GameData/$TARGETDIR"
 deploy_md README.md
 
-#for dll in xxxx ; do
-#    deploy_dev $dll
-#    deploy_bin $dll
-#done
+for dll in $DLLS ; do
+	deploy_dev $dll
+	deploy_bin $dll
+done
