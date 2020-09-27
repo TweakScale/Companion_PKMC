@@ -57,10 +57,17 @@ The following file layout must be present after installation:
 
 ### Dependencies
 
-* TweakScale /L 2.3 or later
+* TweakScale /L 2.4.4 or later
 	+ **NOT** included
-* Near Future Solar 1.1 or later
-	+ **NOT** included , optional
-* Module Manager 3.0.7 or later
+* Near Future Add'Ons, optinals (**not included**) - but at least one is recommeded! :)
+	+ Near Future Aeronautics 
+	+ Near Future Construction
+	+ Near Future Electrical
+	+ Near Future Exploration
+	+ Near Future Construction
+	+ Near Future Launch Vehicles
+	+ Near Future Propulsion
+	+ Near Future Solar
+	+ Near Future SpaceCraft
+* Module Manager 3.1.3 or later
 	+ **NOT** included
-
