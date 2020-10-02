@@ -1,5 +1,8 @@
 # TweakScale Companion :: Near Future Add'Ons :: Changes
 
+* 2020-1001: 0.0.4.1 (Lisias) for KSP >= 1.3
+	+ Fixing a master bork on dependencies
+		- Coding late night when you should be sleeping can be dangerous sometimes. 
 * 2020-0927: 0.0.4.0 (Lisias) for KSP >= 1.3
 	+ Another batch of patch revisions
 		- Added missing Scale Exponents
