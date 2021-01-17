@@ -88,5 +88,6 @@ namespace <#= PROJECT_NAME #>
 #else
 		public const string Text = Number + " /L RC";
 #endif
+		public const string Vendor = "TweakScaleCompanion";
 	}
 }
