@@ -1,5 +1,7 @@
 # TweakScale Companion :: Near Future Add'Ons :: Change Log
 
+* 2021-0117: 1.0.0.0 (Lisias) for KSP >= 1.3
+	+ TweakScale Companion for Near Future goes gold! #HURRAY
 * 2020-1001: 0.0.4.1 (Lisias) for KSP >= 1.3
 	+ Fixing a master bork on dependencies
 		- Coding late night when you should be sleeping can be dangerous sometimes. 
