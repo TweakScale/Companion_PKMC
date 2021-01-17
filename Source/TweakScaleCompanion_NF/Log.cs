@@ -1,6 +1,6 @@
 ﻿/*
-	This file is part of TweakScaleCompanion_KIS
-	© 2020 LisiasT : http://lisias.net <support@lisias.net>
+	This file is part of TweakScaleCompanion_NF
+	© 2020-21 LisiasT : http://lisias.net <support@lisias.net>
 
 	THIE FILE is licensed to you under:
 

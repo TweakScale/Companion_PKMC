@@ -7,10 +7,10 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyTitle("TweakScaleCompanion_NF")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("${AuthorCopyright}")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany(TweakScaleCompanion.NF.LegalMamboJambo.Company)]
+[assembly: AssemblyProduct(TweakScaleCompanion.NF.LegalMamboJambo.Product)]
+[assembly: AssemblyCopyright(TweakScaleCompanion.NF.LegalMamboJambo.Copyight)]
+[assembly: AssemblyTrademark(TweakScaleCompanion.NF.LegalMamboJambo.Trademark)]
 [assembly: AssemblyCulture("")]
 
 // The assembly version has the format "{Major}.{Minor}.{Build}.{Revision}".
