@@ -54,6 +54,7 @@
     <Compile Include="Properties\Version.cs">
       <DependentUpon>Version.tt</DependentUpon>
     </Compile>
+    <Compile Include="GUI\ConflictShowStopperAlertBox %28copy%29.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\Version.tt">

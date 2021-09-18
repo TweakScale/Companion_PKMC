@@ -24,24 +24,24 @@ using UnityEngine;
 
 namespace TweakScaleCompanion.PKMC.GUI
 {
-	internal class UnmetRequirementsShowStopperAlertBox
+	internal class ConflictShowStopperAlertBox
 	{
-		private static readonly string MSG = @"Unfortunately TweakScale Companion for Post Kerbin Mining Corporation (PKMC) is unable to safely proceed due unmet requiments!
+		private static readonly string MSG = @"Unfortunately TweakScale Companion for Post Kerbin Mining Corporation (PKMC) is unable to safely proceed due conflicting issues!
 
-You need to have {0} installed, otherwise this Companion may fail to install itself and/or work correctly and KSP will inject bad information on your savegames' PKMC parts with TweakScale.
+You have {0} installed, and this is known to prevent this Companion from working correctly, leading KSP to inject bad information on your savegames' PKMC parts with TweakScale.
 
 If you decide to proceed, do it with caution.";
 
-		private static readonly string AMSG = @"go to TweakScale Companion Program's page, look for the dependencies for PKMC, download and install {0} and restart KSP (it will close now)";
+		private static readonly string AMSG = @"Remove {0} and restart KSP (it will close now)";
 
-		internal static void Show(string failedRequirement)
+		internal static void Show(string conflictingArtefact)
 		{
 			KSPe.Common.Dialogs.ShowStopperAlertBox.Show(
-				string.Format(MSG, failedRequirement),
-				string.Format(AMSG, failedRequirement),
+				string.Format(MSG, conflictingArtefact),
+				string.Format(AMSG, conflictingArtefact),
 				() => { Application.OpenURL("https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*"); Application.Quit(); }
 			);
-			Log.detail("\"Houston, we have a Problem!\" about {0} unmet dependency was displayed", failedRequirement);
+			Log.detail("\"Houston, we have a Problem!\" about conflits with {0} was displayed", conflictingArtefact);
 		}
     }
 }

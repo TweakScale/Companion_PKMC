@@ -21,6 +21,7 @@
 
 */
 using System;
+using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
@@ -44,7 +45,22 @@ namespace TweakScaleCompanion.PKMC
 				KSPe.Common.Dialogs.ShowStopperAlertBox.Show(e);
 			}
 
+			this.checkConflicts();
 			this.checkDependencies();
+		}
+
+		private void checkConflicts()
+		{
+			try
+			{
+				List<AssemblyLoader.LoadedAssembly> assemblies = AssemblyLoader.loadedAssemblies.Where(a => a.assembly.GetName().Name == "TweakScaleCompanion-NF").ToList();
+				if (assemblies.Count > 0 || System.IO.Directory.Exists(KSPe.IO.Hierarchy.GAMEDATA.Solve("TweakScaleCompanion", "NF")))
+					GUI.UnmetRequirementsShowStopperAlertBox.Show("Deprecated TweakScale Companion for Near Future (NF)");
+			}
+			catch (Exception e) when (e is NullReferenceException || e is InvalidOperationException)
+			{
+				GUI.UnmetRequirementsShowStopperAlertBox.Show("TweakScale v2.4.5 or superior");
+			}
 		}
 
 		private void checkDependencies()
