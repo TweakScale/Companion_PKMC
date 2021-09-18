@@ -1,10 +1,10 @@
 source ../CONFIG.inc
 
-PACKAGE=TweakScaleCompanion.NF
-TARGETDIR="TweakScaleCompanion/NF"
+PACKAGE=TweakScaleCompanion.PKMC
+TARGETDIR="TweakScaleCompanion/PKMC"
 TARGETBINDIR="$TARGETDIR/"
 PROJECTSDIR="$PACKAGE/"
-DLLS="TweakScaleCompanion_NF"
+DLLS="TweakScaleCompanion_PKMC"
 
 PROJECT_BRANCH=`git branch | grep \* | cut -d ' ' -f2`
 if [ "$PROJECT_BRANCH" == "master" ] ; then

@@ -5,10 +5,10 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{538ADAF4-E89C-4414-AEE0-01CB23FDE251}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>TweakScaleCompanion_NF</RootNamespace>
-    <AssemblyName>TweakScaleCompanion_NF</AssemblyName>
+    <RootNamespace>TweakScaleCompanion_PKMC</RootNamespace>
+    <AssemblyName>TweakScaleCompanion_PKMC</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
-    <BaseIntermediateOutputPath>..\..\obj\TweakScaleCompanion_NF</BaseIntermediateOutputPath>
+    <BaseIntermediateOutputPath>..\..\obj\TweakScaleCompanion_PKMC</BaseIntermediateOutputPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

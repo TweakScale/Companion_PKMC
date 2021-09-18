@@ -4,13 +4,13 @@ using System.Runtime.CompilerServices;
 // Information about this assembly is defined by the following attributes. 
 // Change them to the values specific to your project.
 
-[assembly: AssemblyTitle("TweakScaleCompanion_NF")]
+[assembly: AssemblyTitle("TweakScaleCompanion_PKMC")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany(TweakScaleCompanion.NF.LegalMamboJambo.Company)]
-[assembly: AssemblyProduct(TweakScaleCompanion.NF.LegalMamboJambo.Product)]
-[assembly: AssemblyCopyright(TweakScaleCompanion.NF.LegalMamboJambo.Copyight)]
-[assembly: AssemblyTrademark(TweakScaleCompanion.NF.LegalMamboJambo.Trademark)]
+[assembly: AssemblyCompany(TweakScaleCompanion.PKMC.LegalMamboJambo.Company)]
+[assembly: AssemblyProduct(TweakScaleCompanion.PKMC.LegalMamboJambo.Product)]
+[assembly: AssemblyCopyright(TweakScaleCompanion.PKMC.LegalMamboJambo.Copyight)]
+[assembly: AssemblyTrademark(TweakScaleCompanion.PKMC.LegalMamboJambo.Trademark)]
 [assembly: AssemblyCulture("")]
 
 // The assembly version has the format "{Major}.{Minor}.{Build}.{Revision}".
@@ -24,6 +24,6 @@ using System.Runtime.CompilerServices;
 
 //[assembly: AssemblyDelaySign(false)]
 //[assembly: AssemblyKeyFile("")]
-[assembly: AssemblyVersion(TweakScaleCompanion.NF.Version.Number)]
-[assembly: AssemblyFileVersion(TweakScaleCompanion.NF.Version.Number)]
-[assembly: KSPAssembly("TweakScaleCompanion_NF", TweakScaleCompanion.NF.Version.major, TweakScaleCompanion.NF.Version.minor)]
+[assembly: AssemblyVersion(TweakScaleCompanion.PKMC.Version.Number)]
+[assembly: AssemblyFileVersion(TweakScaleCompanion.PKMC.Version.Number)]
+[assembly: KSPAssembly("TweakScaleCompanion_PKMC", TweakScaleCompanion.PKMC.Version.major, TweakScaleCompanion.PKMC.Version.minor)]

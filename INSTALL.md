@@ -1,6 +1,6 @@
-# TweakScale Companion :: Near Future Add'Ons
+# TweakScale Companion :: Post Kerbin Mining Corporation Add'Ons
 
-Adds (up to date) TweakScale /L patches for Near Future Add'Ons.
+Adds (up to date) TweakScale /L patches for Post Kerbin Mining Corporation Add'Ons, including Near Future ones.
 
 
 ## Installation Instructions
@@ -57,7 +57,7 @@ The following file layout must be present after installation:
 
 ### Dependencies
 
-* TweakScale /L 2.4.4 or later
+* TweakScale /L 2.4.5 or later
 	+ **NOT** included
 * Near Future Add'Ons, optinals (**not included**) - but at least one is recommeded! :)
 	+ Near Future Aeronautics 

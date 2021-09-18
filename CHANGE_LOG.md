@@ -1,4 +1,4 @@
-# TweakScale Companion :: Near Future Add'Ons :: Change Log
+# TweakScale Companion :: Post Kerbin Mining Corporation Add'Ons :: Change Log
 
 * 2021-0117: 1.0.0.0 (Lisias) for KSP >= 1.3
 	+ TweakScale Companion for Near Future goes gold! #HURRAY

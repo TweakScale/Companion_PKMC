@@ -1,27 +1,27 @@
-# TweakScale Companion :: Near Future Add'Ons
+# TweakScale Companion :: Post Kerbin Mining Corporation Add'Ons
 
-Adds (up to date) TweakScale /L patches for Near Future Add'Ons.
+Adds (up to date) TweakScale /L patches for Post Kerbin Mining Corporation Add'Ons, including Near Future ones.
 
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/issues)
+* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC)
+	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/blob/master/README.md)
+	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/Archive)
+	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC) on GitHub.
+	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/releases)
+		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/Archive)
 
 
 ## Description
 
-**TweakScale Companion for Near Future Add'Ons** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) [Near Future Add'Ons](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-please-welcome-near-future-exploration/).
+**TweakScale Companion for Post Kerbin Mining Corporation Add'Ons** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) [Near Future Add'Ons](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-please-welcome-near-future-exploration/) and others from the [Post Kerbin Mining Corporation](https://post-kerbin-mining-corporation.github.io).
 
 Currently supporting:
 

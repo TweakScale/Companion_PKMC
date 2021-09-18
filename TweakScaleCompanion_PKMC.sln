@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweakScaleCompanion_NF", "Source\TweakScaleCompanion_NF\TweakScaleCompanion_NF.csproj", "{538ADAF4-E89C-4414-AEE0-01CB23FDE251}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweakScaleCompanion_PKMC", "Source\TweakScaleCompanion_PKMC\TweakScaleCompanion_PKMC.csproj", "{538ADAF4-E89C-4414-AEE0-01CB23FDE251}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
