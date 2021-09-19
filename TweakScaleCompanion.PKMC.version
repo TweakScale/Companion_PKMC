@@ -1,11 +1,11 @@
 {
-	"NAME"		: "TweakScale Companion for Near Future Add'Ons",
-	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_NF/master/TweakScaleCompanion.NF.version",
-	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/releases",
-	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_NF/master/CHANGE_LOG.md",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_NF/master/CHANGES.md",
+	"NAME"		: "TweakScale Companion for Post Kerbin Mining Corporation Add'Ons",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_PKMC/master/TweakScaleCompanion.PKMC.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_PKMC/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_PKMC/master/CHANGES.md",
 	"VERSION":{
-		"MAJOR":1,
+		"MAJOR":2,
 		"MINOR":0,
 		"PATCH":0,
 		"BUILD":0

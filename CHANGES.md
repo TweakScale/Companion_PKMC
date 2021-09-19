@@ -1,16 +1,6 @@
 # TweakScale Companion :: Post Kerbin Mining Corporation Add'Ons :: Changes
 
-* 2021-0117: 1.0.0.0 (Lisias) for KSP >= 1.3
-	+ TweakScale Companion for Near Future goes gold! #HURRAY
-* 2020-1001: 0.0.4.1 (Lisias) for KSP >= 1.3
-	+ Fixing a master bork on dependencies
-		- Coding late night when you should be sleeping can be dangerous sometimes. 
-* 2020-0927: 0.0.4.0 (Lisias) for KSP >= 1.3
-	+ Another batch of patch revisions
-		- Added missing Scale Exponents
-		- Revised and fixed Cleaning Ups
-		- Some parts had the scaling revised
-	+ Added Show Stopper when using TweakScale 2.4.3.x or older
-		- Only TweakScale 2.4.4 can overcome KSP "automatic updating" scheme that rendered TweakScale automatic Scaling fixes useless.
-		- New Savegames are ok to go, but ongoing Savegames will risk corruption unless you use TweakScale 2.4.4. or newer!
-	+ Since the patches are tied to NF Add'Ons and TweakScale, it's possible to be installed down to KSP 1.3 - as long it runs TweakScale 2.4.4 or newer and has a working NF Add'On available!
+* 2021-0919: 2.0.0.0 (Lisias) for KSP >= 1.3
+	+ Rebranding the Companion from Near Future (NF) to Post Kerbin Mining Corporation (PKMC) 
+	+ Small updates on the existing patches for Near Future
+	+ Adds support for SSPX (Stockalike Station Parts Expansion Redux)

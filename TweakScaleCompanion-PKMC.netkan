@@ -2,8 +2,8 @@
     "spec_version"     : "v1.2",
     "$kref"            : "#/ckan/spacedock/xxx",
     "$vref"            : "#/ckan/ksp-avc",
-    "identifier"       : "TweakScaleCompanion-NF",
-    "name"             : "TweakScale Companion for Near Future Add'Ons",
+    "identifier"       : "TweakScaleCompanion-PKMC",
+    "name"             : "TweakScale Companion for Post Kerbin Mining Corporation Add'Ons",
     "abstract"         : ""
     "license"          : [ "GPL-2.0", "restricted" ],
     "release_status"   : "development",
@@ -13,13 +13,13 @@
     ],
     "install" : [
         {
-            "file" : "GameData/TweakScaleCompanion/NF",
+            "file" : "GameData/TweakScaleCompanion/PKMC",
             "install_to" : "GameData/TweakScaleCompanion"
         }
     ],
     "resources": {
         "homepage":   "	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*",
-        "repository": "https://github.com/net-lisias-ksp/TweakScaleCompanion_NF"
+        "repository": "https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC"
     },
     "tags": [
         "config"
@@ -35,6 +35,7 @@
         { "name" : "NearFutureLaunchVehicles" : 1.4 },
         { "name" : "NearFuturePropulsion" : 1.4 },
         { "name" : "NearFutureSolar" : 1.4 },
-        { "name" : "NearFutureSpacecraf" : 1.4 }
+        { "name" : "NearFutureSpacecraf" : 1.4 },
+        { "name" : "StationPartsExpansionRedux" : 1.0 }
     ]
 }
