@@ -1,0 +1,20 @@
+{
+	"NAME"		: "TSCo-NF was phased out! From now on, it's TSCo-PKMC now!",
+
+	"NAME"		: "TweakScale Companion for Post Kerbin Mining Corporation Add'Ons",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_PKMC/master/TweakScaleCompanion.PKMC.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_PKMC/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_PKMC/master/CHANGES.md",
+	"VERSION":{
+		"MAJOR":999,
+		"MINOR":999,
+		"PATCH":999,
+		"BUILD":999
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":3,
+		"PATCH":0
+		}
+}
