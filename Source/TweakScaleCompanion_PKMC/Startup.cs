@@ -24,12 +24,14 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using KSPe.Annotations;
 
 namespace TweakScaleCompanion.PKMC
 {
 	[KSPAddon(KSPAddon.Startup.Instantly, true)]
 	internal class Startup : MonoBehaviour
 	{
+		[UsedImplicitly]
 		private void Start()
 		{
 			Log.init();
