@@ -41,7 +41,7 @@ If you decide to proceed, do it with caution.";
 				string.Format(AMSG, conflictingArtefact),
 				() => { Application.OpenURL("https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*"); Application.Quit(); }
 			);
-			Log.detail("\"Houston, we have a Problem!\" about conflits with {0} was displayed", conflictingArtefact);
+			Log.detail("\"Houston, we have a Problem!\" about conflicts with {0} was displayed", conflictingArtefact);
 		}
     }
 }
