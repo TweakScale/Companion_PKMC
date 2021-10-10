@@ -1,5 +1,8 @@
 # TweakScale Companion :: Post Kerbin Mining Corporation Add'Ons :: Change Log
 
+* 2021-1010: 2.1.0.0 (Lisias) for KSP >= 1.3
+	+ Refactoring using the new KSPe.Light.TweakScale v2.4 facilities to allow it to be safely installed on rigs without it.
+		- Lots of flexibility on packaging in the near future
 * 2021-0919: 2.0.0.0 (Lisias) for KSP >= 1.3
 	+ Rebranding the Companion from Near Future (NF) to Post Kerbin Mining Corporation (PKMC) 
 	+ Small updates on the existing patches for Near Future
