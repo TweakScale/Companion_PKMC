@@ -1,7 +1,7 @@
 # TweakScale Companion :: Post Kerbin Mining Corporation Add'Ons :: Change Log
 
 * 2023-0304: 2.2.0.0 (Lisias) for KSP >= 1.3
-	+ 
+	+ Adds Support for Far Future Technologies
 * 2021-1016: 2.1.0.1 (Lisias) for KSP >= 1.3
 	+ Fix a bug on patch. Thanks to AccidentalDissassemly!
 	+ Closes issues:
