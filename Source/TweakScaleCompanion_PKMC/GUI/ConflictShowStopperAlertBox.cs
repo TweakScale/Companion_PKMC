@@ -26,11 +26,12 @@ namespace TweakScaleCompanion.PKMC.GUI
 {
 	internal class ConflictShowStopperAlertBox
 	{
+		private const string URL = "https://ksp.lisias.net/add-ons/TweakScaleCompanion/Support/PKMC/conflict-detected";
 		private static readonly string MSG = @"Unfortunately TweakScale Companion for Post Kerbin Mining Corporation (PKMC) is unable to safely proceed due conflicting issues!
 
 You have {0} installed, and this is known to prevent this Companion from working correctly, leading KSP to inject bad information on your savegames' PKMC parts with TweakScale.
 
-If you decide to proceed, do it with caution.";
+If you decide to proceed, do it with caution - backup anything valuable in your savegames.";
 
 		private static readonly string AMSG = @"Remove {0} and restart KSP (it will close now)";
 
@@ -39,7 +40,7 @@ If you decide to proceed, do it with caution.";
 			KSPe.Common.Dialogs.ShowStopperAlertBox.Show(
 				string.Format(MSG, conflictingArtefact),
 				string.Format(AMSG, conflictingArtefact),
-				() => { Application.OpenURL("https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*"); Application.Quit(); }
+				() => { KSPe.Util.CkanTools.OpenURL(URL); Application.Quit(); }
 			);
 			Log.detail("\"Houston, we have a Problem!\" about conflicts with {0} was displayed", conflictingArtefact);
 		}
