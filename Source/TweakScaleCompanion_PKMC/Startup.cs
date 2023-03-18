@@ -21,8 +21,6 @@
 
 */
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using UnityEngine;
 using KSPe.Annotations;
 
@@ -39,7 +37,7 @@ namespace TweakScaleCompanion.PKMC
 
 			try
 			{
-				KSPe.Util.Installation.Check<Startup>("TweakScaleCompanion_PKMC", "PKMC", Version.Vendor);
+				KSPe.Util.Installation.Check<Startup>();
 			}
 			catch (KSPe.Util.InstallmentException e)
 			{
@@ -53,7 +51,7 @@ namespace TweakScaleCompanion.PKMC
 
 		private void checkConflicts()
 		{
-			if (KSPe.Util.SystemTools.Assembly.Finder.ExistsByName("TweakScaleCompanion-NF") || System.IO.Directory.Exists(KSPe.IO.Hierarchy.GAMEDATA.Solve("TweakScaleCompanion", "NF")))
+			if (KSPe.Util.SystemTools.Assembly.Exists.ByName("TweakScaleCompanion-NF") || System.IO.Directory.Exists(KSPe.IO.Hierarchy.GAMEDATA.Solve("TweakScaleCompanion", "NF")))
 				GUI.ConflictShowStopperAlertBox.Show("Deprecated TweakScale Companion for Near Future (NF)");
 		}
 
@@ -61,13 +59,13 @@ namespace TweakScaleCompanion.PKMC
 		{
 			try
 			{
-				System.Reflection.Assembly assembly = KSPe.Util.SystemTools.Assembly.Finder.FindByName("Scale");
-				if (-1 == assembly.GetName().Version.CompareTo(new System.Version(2, 4, 6)) )
-					GUI.UnmetRequirementsShowStopperAlertBox.Show("TweakScale v2.4.6 or superior");
+				System.Reflection.Assembly assembly = KSPe.Util.SystemTools.Assembly.Find.ByName("Scale");
+				if (-1 == assembly.GetName().Version.CompareTo(new System.Version(2, 4, 7)) )
+					GUI.UnmetRequirementsShowStopperAlertBox.Show("TweakScale v2.4.7 or superior");
 			}
 			catch (Exception e) when (e is NullReferenceException || e is InvalidOperationException)
 			{
-				GUI.UnmetRequirementsShowStopperAlertBox.Show("TweakScale v2.4.6 or superior");
+				GUI.UnmetRequirementsShowStopperAlertBox.Show("TweakScale v2.4.7 or superior");
 			}
 		}
 	}

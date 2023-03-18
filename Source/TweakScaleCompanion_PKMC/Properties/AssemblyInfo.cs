@@ -27,3 +27,5 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyVersion(TweakScaleCompanion.PKMC.Version.Number)]
 [assembly: AssemblyFileVersion(TweakScaleCompanion.PKMC.Version.Number)]
 [assembly: KSPAssembly("TweakScaleCompanion_PKMC", TweakScaleCompanion.PKMC.Version.major, TweakScaleCompanion.PKMC.Version.minor)]
+[assembly: KSPAssemblyDependency("KSPe.Light.TweakScale", 2, 5)]
+[assembly: KSPAssemblyDependency("Scale", 2, 4)]
