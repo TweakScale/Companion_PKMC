@@ -8,7 +8,7 @@ Adds (up to date) TweakScale /L patches for Post Kerbin Mining Corporation Add'O
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/NFS` of existant
+	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/NFS` if existant
 	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/NF`
 * Extract the package's `GameData/` folder into your KSP's as follows:
 	+ `<PACKAGE>/GameData/TweakScaleCompanion/NF` --> `<KSP_ROOT>/GameData/TweakScaleCompanion`
@@ -39,8 +39,28 @@ The following file layout must be present after installation:
 		...
 		[TweakScaleCompanion]
 			[...]
-			[NF]
+			[PKMC]
+				[FFT]
+					...
+				[NFA]
+					...
+				[NFC]
+					...
+				[NFE]
+					...
+				[NFEX]
+					...
+				[NFLV]
+					...
+				[NFP]
+					...
 				[NFS]
+					...
+				[NFSC]
+					...
+				[SSPX]
+					...
+				[NFC]
 					...
 				CHANGE_LOG.md
 				LICENSE*
@@ -57,7 +77,7 @@ The following file layout must be present after installation:
 
 ### Dependencies
 
-* TweakScale /L 2.4.5 or later
+* TweakScale /L 2.4.7 or later
 	+ **NOT** included
 * Near Future Add'Ons, optinals (**not included**) - but at least one is recommeded! :)
 	+ Near Future Aeronautics 

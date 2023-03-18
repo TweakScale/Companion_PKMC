@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 // Change them to the values specific to your project.
 
 [assembly: AssemblyTitle("TweakScaleCompanion_PKMC")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Adds TweakScale suport for Post Kerbin Mining Operations add'ons!")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany(TweakScaleCompanion.PKMC.LegalMamboJambo.Company)]
 [assembly: AssemblyProduct(TweakScaleCompanion.PKMC.LegalMamboJambo.Product)]
