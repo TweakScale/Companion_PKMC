@@ -5,18 +5,18 @@ Adds (up to date) TweakScale /L patches for Post Kerbin Mining Corporation Add'O
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/issues)
+* [Source](https://github.com/TweakScale/Companion_PKMC)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_PKMC/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_PKMC/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_PKMC/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/Archive)
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_PKMC) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_PKMC/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_PKMC/Archive)
 
 
 ## Description
@@ -82,7 +82,7 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
 * [Far Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/199070-*/)
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/far-future-technologies)
 	+ [SpaceDock](https://spacedock.info/mod/2603/Far%20Future%20Technologies) 

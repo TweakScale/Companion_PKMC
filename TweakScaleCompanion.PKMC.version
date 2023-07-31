@@ -1,9 +1,9 @@
 {
 	"NAME"		: "TweakScale Companion for Post Kerbin Mining Corporation Add'Ons",
-	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_PKMC/master/TweakScaleCompanion.PKMC.version",
-	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/releases",
-	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_PKMC/master/CHANGE_LOG.md",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_PKMC/master/CHANGES.md",
+	"URL"		: "https://raw.githubusercontent.com/TweakScale/Companion_PKMC/master/TweakScaleCompanion.PKMC.version",
+	"DOWNLOAD"	: "https://github.com/TweakScale/Companion_PKMC/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/TweakScale/Companion_PKMC/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/TweakScale/Companion_PKMC/master/CHANGES.md",
 	"VERSION":{
 		"MAJOR":2,
 		"MINOR":2,
