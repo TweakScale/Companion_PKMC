@@ -36,7 +36,7 @@ Currently supporting:
 	+ Near Future Propulsion
 	+ Near Future Solar
 	+ Near Future Space Craft
-* [Stockalike Station Parts Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*/)
+
 
 ## Installation
 
@@ -124,7 +124,3 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 		- [CurseForge](https://spacedock.info/mod/708/Near%20Future%20Spacecraft)
 		- [SpaceDock](https://kerbal.curseforge.com/projects/near-future-spacecraft-parts) 
 		- [GitHub](https://github.com/ChrisAdderley/NearFutureSpacecraft/releases)
-* [Stockalike Station Parts Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*/)
-	+ [CurseForge](https://kerbal.curseforge.com/projects/stockalike-station-parts-expansion-redux)
-	+ [SpaceDock](https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux) 
-	+ [GitHub](https://github.com/ChrisAdderley/StationPartsExpansionRedux/releases)
