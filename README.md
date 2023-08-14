@@ -21,12 +21,12 @@ Adds (up to date) TweakScale /L patches for Post Kerbin Mining Corporation Add'O
 
 ## Description
 
-**TweakScale Companion for Post Kerbin Mining Corporation Add'Ons** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) [Near Future Add'Ons](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-please-welcome-near-future-exploration/) and others from the [Post Kerbin Mining Corporation](https://post-kerbin-mining-corporation.github.io).
+**TweakScale Companion for Post Kerbin Mining Corporation Add'Ons** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) Near Future Add'Ons](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-please-welcome-near-future-exploration/) and others from the [Post Kerbin Mining Corporation](https://post-kerbin-mining-corporation.github.io).
 
 Currently supporting:
 
-* [Far Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/199070-*/)
-* [Near Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-*/)
+* Far Future Technologies
+* Near Future Technologies
 	+ Near Future Aeronautics
 	+ Near Future Construction
 	+ Near Future Electrical
