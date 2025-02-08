@@ -1,6 +1,6 @@
 ﻿/*
 	This file is part of TweakScaleCompanion_PKMC
-	© 2020-2023 LisiasT : http://lisias.net <support@lisias.net>
+	© 2020-2025 LisiasT : http://lisias.net <support@lisias.net>
 
 	TweakScaleCompanion_PKMC is double licensed, as follows:
 
@@ -26,7 +26,7 @@ namespace TweakScaleCompanion.PKMC
 	public static class LegalMamboJambo
 	{
 		public const string Company = "L Aerospace KSP Division";
-		public const string Copyight = "© 2020-2023 LisiasT";
+		public const string Copyight = "© 2020-2025 LisiasT";
 		public const string Product = "TweakScale Companion for Post Kerbin Mining Corporation";
 		public const string Trademark = "TweakScale™, TweakScale Companion™ by LisiasT";
 	}
